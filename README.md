@@ -15,7 +15,7 @@ If you find our work useful in your research please consider citing our paper:
 ```
 
 
-![](docs/mac_framework.png)
+![](docs/fig1_mac.png)
 ### Getting Started
 ![](docs/framework.png)
 #### Installation
