@@ -1,4 +1,4 @@
-## Unsupervised Video Representation Learning by Catch-the-Patch
+## Mask-Augmentation for Motion-Aware Video Representation Learning
 
 ### Introduction
 
